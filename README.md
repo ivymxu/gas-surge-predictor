@@ -1,6 +1,4 @@
-# gas-surge-predictor# 
-
-⛽ Ethereum Gas Surge Predictor
+# ⛽ Ethereum Gas Surge Predictor
 
 A mini web app that shows current Ethereum gas prices and uses machine learning to predict gas prices for the next hour, helping you decide the best time to send transactions.
 
